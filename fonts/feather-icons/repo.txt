@@ -1,0 +1,9 @@
+https://github.com/feathericons/feather
+
+MIT License
+
+Copyright (c) 2013-2017 Cole Bemis
+
+This work is licensed under the terms of the MIT license.  
+For a copy, see <https://opensource.org/licenses/MIT>.
+

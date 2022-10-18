@@ -1,0 +1,10 @@
+https://github.com/dtinth/comic-mono-font
+
+MIT License
+
+Original work Copyright (c) 2018 Shannon Miwa
+Modified work Copyright (c) 2019 dtinth
+
+This work is licensed under the terms of the MIT license.  
+For a copy, see <https://opensource.org/licenses/MIT>.
+
